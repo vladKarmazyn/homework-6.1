@@ -141,8 +141,6 @@ input::placeholder {
 .sign-in {
     width: 100%;
     box-sizing: border-box;
-    padding-right: 34.66px;
-    padding-left: 37.4px;
     margin-top: 30px;
     display: flex;
     justify-content: space-between;
